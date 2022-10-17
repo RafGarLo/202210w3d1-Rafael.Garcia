@@ -1,4 +1,4 @@
-import { Character } from './character';
+import { Character } from './Character';
 export class King extends Character {
     constructor(name, family, age, kingdomYears) {
         super(name, family, age);
