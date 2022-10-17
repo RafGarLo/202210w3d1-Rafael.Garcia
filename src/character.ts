@@ -1,4 +1,4 @@
-import { King } from './king';
+import { King } from './King';
 
 export class Character {
     name: string;
